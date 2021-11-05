@@ -1,2 +1,4 @@
-# node-js-training
-Learning node.js
+# Learning Node.js
+
+
+Following Udemy course
